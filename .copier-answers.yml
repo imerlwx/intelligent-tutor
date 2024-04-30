@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.2.4
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: wengxili@umich.edu
+author_name: Wengxi Li
+has_binder: true
+has_settings: false
+kind: server
+labextension_name: intelligent-tutor
+project_short_description: An intelligent tutor system that could assist students
+    while watching tutorial videos.
+python_name: intelligent_tutor
+repository: https://github.com/imerlwx/intelligent-tutor
+test: true
+

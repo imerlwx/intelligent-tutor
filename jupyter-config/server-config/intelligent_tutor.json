@@ -1,0 +1,7 @@
+{
+  "ServerApp": {
+    "jpserver_extensions": {
+      "intelligent_tutor": true
+    }
+  }
+}
